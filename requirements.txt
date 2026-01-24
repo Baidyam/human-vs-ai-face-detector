@@ -2,3 +2,6 @@ tensorflow>=2.20,<2.21
 gradio==6.4.0
 numpy
 Pillow
+matplotlib
+scikit-learn
+seaborn
