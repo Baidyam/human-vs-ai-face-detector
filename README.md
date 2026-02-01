@@ -2,7 +2,7 @@
 
 An interactive game where humans compete against a deep learning model to identify AI-generated faces.
 
-This project was built as part of a Computer Vision assignment and demonstrates the full ML lifecycle:
+This project comes under Computer Vision and demonstrates the full ML lifecycle:
 data exploration, model training, transfer learning, fine-tuning, evaluation, and deployment.
 
 ---
